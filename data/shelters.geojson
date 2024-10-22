@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shelter A",
+          "capacity": 100,
+          "address": "123 Main St, City, State, ZIP",
+          "type": "Community Center"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4194, 37.7749] 
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shelter B",
+          "capacity": 50,
+          "address": "456 Elm St, City, State, ZIP",
+          "type": "School"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4192, 37.7750] 
+        }
+      }
+    ]
+  }
+  

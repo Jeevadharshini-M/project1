@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Medical Center A",
+          "type": "Urgent Care",
+          "address": "654 Maple St, City, State, ZIP",
+          "phone": "(123) 456-7890"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4174, 37.7742] 
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Medical Center B",
+          "type": "Community Clinic",
+          "address": "987 Cedar St, City, State, ZIP",
+          "phone": "(123) 456-7891"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4160, 37.7730] 
+        }
+      }
+    ]
+  }
+  

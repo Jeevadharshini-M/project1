@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Food Station A",
+          "type": "Emergency Meals",
+          "address": "789 Oak St, City, State, ZIP",
+          "hours": "9 AM - 5 PM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4184, 37.7745] 
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Food Station B",
+          "type": "Food Pantry",
+          "address": "321 Pine St, City, State, ZIP",
+          "hours": "10 AM - 6 PM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4180, 37.7735] 
+        }
+      }
+    ]
+  }
+  
