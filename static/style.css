@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    color: #333;
+}
+
+#map {
+    height: 600px; /* Set the height of the map */
+    margin: 20px auto; /* Center the map */
+    width: 90%; /* Set the width of the map */
+    border: 2px solid #007bff; /* Add border to the map */
+    border-radius: 5px; /* Round the corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Add shadow */
+}
+
+footer {
+    text-align: center;
+    margin: 20px;
+    color: #555;
+}
